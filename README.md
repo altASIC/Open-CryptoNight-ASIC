@@ -2,7 +2,7 @@
 :heavy_check_mark: Open source.  
 :heavy_check_mark: Permissive Licensing.  
 :heavy_check_mark: __5x better performance than Bitmain__  
-:heavy_check_mark:  Made with love by [7400digital@gmail.com](http://www.7400.digital/), [Tim Olson](https://linkedin.com/in/olsontim), and [Salt](https://twitter.com/_vhsv3).  Together we are [altASIC](http://altasic.com/), and we have hodled Monero since 2014.
+:heavy_check_mark:  Made with love by [7400digital@gmail.com](http://www.7400.digital/), [Tim Olson](https://linkedin.com/in/olsontim), and [Salt](https://twitter.com/_vhsv3).  Together we are [altASIC](http://altasic.com/), and we have worked on Monero projects since 2014.
 
 ## What is this
 
