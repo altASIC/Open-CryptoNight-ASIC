@@ -1,0 +1,12 @@
+*.bak
+*~
+vhdl2verilog.log
+a.out
+/obj_dir
+/tb/simv*
+/tb/csrc
+ucli.key
+*.vcd
+/syn/
+/tb/AN.DB
+.vlogansetup.args
