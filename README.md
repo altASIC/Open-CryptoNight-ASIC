@@ -37,7 +37,7 @@ and operated manufacturer.
 
 We believe Open ASICs are the way forward.
 Long term, the CN tweak schedule and creative new PoWs will be defeated.
-Rather than evade, we should accelerate commodity/community ASICs.
+Rather than evade, we should accelerate commodity ASICs.
 This open source design is the first step in that direction,
 and we'd be interested in helping to establish a design co-op and release the first chip.
 
