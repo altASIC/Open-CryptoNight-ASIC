@@ -50,7 +50,7 @@ But the IL and FL can be parallelized even further.
 Memory utilization is 100% during the inner loop, and 20% during initialization and finalization loops.
 So overall Memory utilization is 69%.
 
-The initial and final Keccak and other finalization hashes can be run in on CPU or FPGA 
+The initial and final Keccak and other finalization hashes can be run on a CPU or FPGA 
 in parallel with the memory-hard algorithm on the ASIC,
 so those hashes do not reduce performance in a well-designed ASIC mining system.
 
