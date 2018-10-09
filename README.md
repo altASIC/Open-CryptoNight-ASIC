@@ -56,14 +56,14 @@ so those hashes do not reduce performance in a well-designed ASIC mining system.
 
 ### ASIC implementation
 Physical layout was completed vs TSMC 28nm process and parasitics extracted.
-Size of a single core was 4mm^2.
+Size of a single core was 4mm<sup>2</sup>.
 Clock rate was 800MHz, limited by RAM tpd.
 Power simulation measured 400 μJ per hash.
 Overall this is ~5x better than the Bitmain X3.
 
 ### FPGA implementation
 The 16 Mib memory requirement of CryptoNight means that instantiating the full core
-requires a relatively expensive FPGA to get enough RAM bocks,
+requires a relatively expensive FPGA to get enough RAM blocks,
 even though most of the logic units go unused.
 Implementation on an Arria A10 development board runs 30H/s per core at 100MHz.
 
