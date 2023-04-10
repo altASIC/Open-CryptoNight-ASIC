@@ -11,14 +11,14 @@ module multiplier (
 // 3 means two clock multicycle path for multiply
 // 4 means three clock multicycle path for multiply
 parameter MULTIPLIER_DELAY = 2;
-
+/*
 initial begin
 	$display("MULTIPLIER_DELAY == %0d", MULTIPLIER_DELAY);
 	if (MULTIPLIER_DELAY < 1 || MULTIPLIER_DELAY > 3) begin
 		$display("*** MULTIPLIER_DELAY misconfigured! ****");
 		$stop;
 	end
-end
+end */
 
 input clk;
 input reset_n;
